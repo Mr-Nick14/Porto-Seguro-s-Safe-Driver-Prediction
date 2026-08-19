@@ -14,3 +14,8 @@
 | Вторая       | Те же модели и one-hot encoding                                               | Kaggle Score`0.27510` |
 | Третья       | Те же модели, новые признаки и подбор параметров | Kaggle Score`0.28222` |
 | Четвертая | Один LightGBM                                                                        | Kaggle Score`0.28809` |
+
+
+Итоговое место - 1690 из 5157.
+
+Также к сожалению не получается залить на гитхаб исходные данные, только ссылку: https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/data
